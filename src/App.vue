@@ -27,7 +27,7 @@
           <div class="mt-4 sm:mt-6">
             <a
               href="#"
-              class="btn btn-indigo shadow-lg sm:text-base"
+              class="btn bg-brand-blue shadow-lg sm:text-base"
               >Book your escape</a
             >
           </div>

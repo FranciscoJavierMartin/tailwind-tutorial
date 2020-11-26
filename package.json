@@ -25,8 +25,8 @@
     "vue-template-compiler": "^2.6.11"
   },
   "scripts": {
-    "build-tailwind": "postcss css/tailwind.css -o docs/build/tailwind.css",
-    "watch": "postcss css/tailwind.css -o docs/build/tailwind.css --watch",
+    "build-tailwind": "postcss css/tailwind.css -o public/build/tailwind.css",
+    "watch": "postcss css/tailwind.css -o public/build/tailwind.css --watch",
     "start": "live-server docs --port=5050",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
