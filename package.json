@@ -12,6 +12,7 @@
   },
   "scripts": {
     "build": "postcss css/tailwind.css -o docs/build/tailwind.css",
+    "watch": "postcss css/tailwind.css -o docs/build/tailwind.css --watch",
     "start": "live-server docs --port=5050"
   }
 }
