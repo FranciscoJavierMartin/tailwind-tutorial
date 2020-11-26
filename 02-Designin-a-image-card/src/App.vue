@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import PropertyCard from './components/PropertyCard'
+import PropertyCard from './components/PropertyCard.vue'
 export default {
   name: 'app',
   components: {
